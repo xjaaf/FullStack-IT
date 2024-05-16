@@ -25,4 +25,4 @@ function printNumbers($start, $end){
 printNumbers(1, 10);
 
 
-?>
+?> 
