@@ -24,17 +24,5 @@ function printNumbers($start, $end){
 
 printNumbers(1, 10);
 
-function countRecursive($num) {
-    if ($num <= 10) {
-        echo $num . PHP_EOL;
-        countRecursive($num + 1);
-    }
-}
-
-countRecursive(1);
-
-foreach (range(1, 10) as $number) {
-    echo $number . PHP_EOL;
-}
 
 ?>
