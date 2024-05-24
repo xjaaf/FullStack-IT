@@ -45,4 +45,4 @@ $matriz2 = [[3, 7, 6], [9, 5, 1], [4, 3, 8]];
 
 echo esMatrizMagica($matriz1) . "\n";
 echo esMatrizMagica($matriz2) . "\n";
-?>
+
