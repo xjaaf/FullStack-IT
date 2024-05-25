@@ -7,14 +7,14 @@ require_once('class/Mage.php');
 $warrior = new Warrior("Alistair", "Sword of Justice");
 
 $warrior->attack();
-$warrior->run('RIGHT'); // Mover al guerrero hacia la derecha
+$warrior->run('RIGHT'); 
 
 $mage = new Mage("Elena");
 $mage->addSpell("Lightning Bolt");
 $mage->useSpell("Lightning Bolt");
 
-$archer = new Archer("Sylvia", "Eagle's Eye", 5); // Iniciar al arquero con 5 flechas
-$archer->shoot(); // El arquero dispara una flecha
+$archer = new Archer("Sylvia", "Eagle's Eye", 5); 
+$archer->shoot(); 
 
 echo "Warrior's position: " . $warrior->getPosition() . "\n";
 echo "Mage's position: " . $mage->getPosition() . "\n";
