@@ -1,0 +1,4 @@
+Número: 8
+Cuadrado: 64
+Cubo: 512
+Factorial: 40320

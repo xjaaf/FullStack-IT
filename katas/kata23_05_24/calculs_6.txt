@@ -1,0 +1,4 @@
+Número: 6
+Cuadrado: 36
+Cubo: 216
+Factorial: 720

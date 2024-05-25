@@ -1,0 +1,4 @@
+Número: 3
+Cuadrado: 9
+Cubo: 27
+Factorial: 6
